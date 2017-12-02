@@ -1,7 +1,7 @@
 {
   "name": "greyatom-ide-background-tips",
   "main": "./lib/background-tips",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "Displays tips about Atom in the background when there are no editors open.",
   "repository": "https://github.com/greyatom-edu-tech/greyatom-ide-background-tips",
